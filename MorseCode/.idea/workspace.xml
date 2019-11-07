@@ -2,31 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95f8d03d-8dc4-4d46-8000-aa6340c8b77a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/Chapter 17 Activities.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/FirstToLast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/FirstToLast/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/src/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/SizeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/SizeTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/CircularArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/LinkedListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/LinkedListStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/ListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/QueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/StackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/src/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TraversalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TraversalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TreeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MorseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MorseCode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,14 +15,16 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MorseCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1297">
-              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            <state relative-caret-position="735">
+              <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2604#2605#0" expanded="true" />
+                <element signature="e#2629#2630#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/Telegraph.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="404">
-              <caret line="88" column="42" lean-forward="true" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+              <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -102,6 +79,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,9 +98,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,7 +119,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MorseCode">
+    <configuration name="MorseCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MorseCode" />
+      <module name="MorseCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Telegraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Telegraph" />
       <module name="MorseCode" />
@@ -175,6 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MorseCode" />
         <item itemvalue="Application.Telegraph" />
       </list>
     </recent_temporary>
@@ -199,7 +185,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21088019" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21332519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,6 +256,20 @@
     <entry file="file://$PROJECT_DIR$/rename.iml" />
     <entry file="file://$PROJECT_DIR$/src/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Telegraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -277,19 +277,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Telegraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="88" column="42" lean-forward="true" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MorseCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1297">
-          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        <state relative-caret-position="735">
+          <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2604#2605#0" expanded="true" />
+            <element signature="e#2629#2630#0" expanded="true" />
           </folding>
         </state>
       </provider>
