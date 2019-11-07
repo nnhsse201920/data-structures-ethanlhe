@@ -70,8 +70,8 @@ public class MorseCode
      */
     private static void addSymbol(char letter, String code)
     {
-        _______________________________________
-        ...
+        codeMap.put(letter, code);
+        treeInsert(letter, code);
     }
 
     /**
@@ -83,8 +83,7 @@ public class MorseCode
      */
     private static void treeInsert(char letter, String code)
     {
-        _______________________________________
-        ...
+
     }
 
     /**
@@ -97,8 +96,10 @@ public class MorseCode
     {
         StringBuffer morse = new StringBuffer(400);
 
-        _______________________________________
-        ...
+        for(int i = 0; i<=text.length(); i++)
+        {
+            morse.append(codeMap.get(text.substring(i,i++)));
+        }
 
         return morse.toString();
     }
@@ -113,8 +114,7 @@ public class MorseCode
     {
         StringBuffer text = new StringBuffer(100);
 
-        _______________________________________
-        ...
+
 
         return text.toString();
     }

@@ -9,7 +9,7 @@ import java.util.NoSuchElementException;
 public class LinkedList
 {
     private Node first;
-    private int size;
+    private int size = 0;
 
     /**
         Constructs an empty linked list.
@@ -49,6 +49,7 @@ public class LinkedList
             throw new NoSuchElementException();
         Object element = first.data;
         first = first.next;
+        size--;
         return element;
     }
 
@@ -163,12 +164,15 @@ public class LinkedList
             if (position == first)
             {
                 removeFirst();
+                size--;
             }
             else
             {
                 previous.next = position.next;
+                size--;
             }
             position = previous;
+
         }
 
         /**

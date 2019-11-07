@@ -1,6 +1,11 @@
+/*
+import java.util.List;
+
+*/
 /**
  *   A program that demonstrates the LinkedList class
- */
+ *//*
+
 public class ListDemo
 {
     public static void main(String[] args)
@@ -11,5 +16,24 @@ public class ListDemo
         staff.addFirst("Romeo");
         staff.addFirst("Harry");
         staff.addFirst("Diana");
+
+        ListIterator iterator = staff.listIterator(); // |DHRT
+        iterator.next();                              // D|HRT
+        iterator.next();                              // DH|RT
+
+        //add more elements after the second element
+        iterator.add("Juliet");                       // DHJ|RT
+        iterator.add("Nina");                         // DHJN|RT
+
+        iterator.next();
+        iterator.remove();                            // DHJN|T
+
+        iterator = staff.listIterator();
+        while(iterator.hasNext())
+        {
+            System.out.print(iterator.next() + " ");
+
+        }
+        System.out.println();
     }
-}
+}*/

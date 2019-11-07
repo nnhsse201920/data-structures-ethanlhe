@@ -26,7 +26,12 @@ public class LinkedList
     public void reverse()
     {
         // Complete this method
-        . . .
+        Node num = first.next
+        while(this.first != null&&first.next!= null)
+        {
+            .next()
+            num = first.next;
+        }
 
 
     }

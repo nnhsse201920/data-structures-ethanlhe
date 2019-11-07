@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95f8d03d-8dc4-4d46-8000-aa6340c8b77a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/Chapter 17 Activities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/FirstToLast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/FirstToLast/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/src/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/SizeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/SizeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircularArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/src/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TraversalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TraversalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MorseCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MorseCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MorseCode/src/MorseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MorseCode/src/MorseCode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QueueDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -30,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StackDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="315">
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -39,8 +63,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="404">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#1048#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="121" column="8" lean-forward="true" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
+            <state relative-caret-position="-924">
+              <caret line="56" column="7" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="7" />
               <folding>
                 <element signature="e#471#472#0" expanded="true" />
                 <element signature="e#504#505#0" expanded="true" />
@@ -62,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/src/ListIterator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -70,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CircularArrayQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="509">
+              <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -79,8 +106,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkedListStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="735">
+              <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,12 +130,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/QueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/ListIterator.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListStack.java" />
         <option value="$PROJECT_DIR$/src/StackDemo.java" />
         <option value="$PROJECT_DIR$/src/ListDemo.java" />
         <option value="$PROJECT_DIR$/src/CircularArrayQueue.java" />
-        <option value="$PROJECT_DIR$/src/ListIterator.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/QueueDemo.java" />
       </list>
     </option>
   </component>
@@ -121,10 +153,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-7" />
+    <option name="width" value="854" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -132,6 +163,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,16 +182,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter 16 Activities/Size" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -172,9 +203,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.QueueDemo">
     <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListDemo" />
+      <module name="Ch16ClassNotes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueDemo" />
+      <module name="Ch16ClassNotes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackDemo" />
       <module name="Ch16ClassNotes" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -205,6 +252,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueDemo" />
+        <item itemvalue="Application.StackDemo" />
         <item itemvalue="Application.ListDemo" />
       </list>
     </recent_temporary>
@@ -230,7 +279,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21577017" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22310513" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -269,50 +318,57 @@
     <entry file="file://$PROJECT_DIR$/rename.iml" />
     <entry file="file://$PROJECT_DIR$/src/QueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircularArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedListStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="126">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ListIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CircularArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#1048#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="121" column="8" lean-forward="true" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
+        <state relative-caret-position="-924">
+          <caret line="56" column="7" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="7" />
           <folding>
             <element signature="e#471#472#0" expanded="true" />
             <element signature="e#504#505#0" expanded="true" />

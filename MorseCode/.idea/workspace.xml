@@ -2,6 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95f8d03d-8dc4-4d46-8000-aa6340c8b77a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/Chapter 17 Activities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/FirstToLast/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/FirstToLast/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Reverse/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/SizeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Activities/Size/src/SizeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/CircularArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/CircularArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/LinkedListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/LinkedListStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 16 Class Notes/src/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Activities/Visitors/src/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TraversalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TraversalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter 17 Class Notes/src/TreeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MorseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MorseCode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,11 +37,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MorseCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1297">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Telegraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="88" column="42" lean-forward="true" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -34,11 +89,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="404" />
-    <option name="y" value="29" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="854" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -48,8 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,25 +114,20 @@
               <item name="MorseCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MorseCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MorseCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MorseCode.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Course" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter 16 Class Notes" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -96,28 +143,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="Telegraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Telegraph" />
       <module name="MorseCode" />
@@ -135,6 +160,15 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,16 +197,47 @@
     <option name="totallyTimeSpent" value="636000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="404" y="29" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21088019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32922733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32073435" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32937366" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21088019" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
@@ -185,7 +250,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32073435" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32937366" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,7 +260,8 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -204,17 +270,24 @@
     <entry file="file://$PROJECT_DIR$/rename.iml" />
     <entry file="file://$PROJECT_DIR$/src/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Telegraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="2" selection-end-line="84" selection-end-column="40" />
+        <state relative-caret-position="404">
+          <caret line="88" column="42" lean-forward="true" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MorseCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="-1297">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
