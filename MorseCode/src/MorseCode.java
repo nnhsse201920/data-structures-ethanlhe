@@ -15,13 +15,13 @@ public class MorseCode
     {
         MorseCode.start();  
         BTreePrinter.printNode(decodeTree);
-        encode("hello");
+        System.out.println(encode("hello"));
     }
 
     public static void start()
     {
         codeMap = new TreeMap<Character, String>();
-        decodeTree = new TreeNode(' ', null, null);  // autoboxing
+        decodeTree = new TreeNode(' ', null, null);  // autoboxing each left and right have tree nodes that branch down.
         // put a space in the root of the decoding tree
 
         addSymbol('A', ".-");
@@ -82,11 +82,30 @@ public class MorseCode
      * right.  The node at the end of the path holds the symbol
      * for that code string.
      */
-    private static void treeInsert(char letter, String code)
-    {
-        decodeTree
-    }
+    private static void treeInsert(char letter, String code) {
+        TreeNode temp = decodeTree;
+        int size = code.length();
+        for (int i = 0; i < size; i++)
+        {
+            if (code.charAt(i) == DOT)
+            {
+                if (temp.getLeft() == null)
+                {
+                    temp.setLeft(new TreeNode(" "));
+                }
+                temp = temp.getLeft();
+            } else if (code.charAt(i) == DASH)
+            {
+                if (temp.getRight() == null)
+                {
+                    temp.setRight(new TreeNode(" "));
+                }
+                temp = temp.getRight();
+            }
 
+        }
+        temp.setValue(letter);
+    }
     /**
      * Converts text into a Morse code message.  Adds a space after a dot-dash
      * sequence for each letter.  Other spaces in the text are transferred directly
@@ -96,10 +115,9 @@ public class MorseCode
     public static String encode(String text)
     {
         StringBuffer morse = new StringBuffer(400);
-
+        String n = text.ToUpperCase();
         for(int i = 0; i<text.length(); i++)
         {
-            System.out.println(text.charAt(i));
             morse.append(codeMap.get(text.charAt(i)));
         }
 
@@ -116,6 +134,11 @@ public class MorseCode
     {
         StringBuffer text = new StringBuffer(100);
 
+        for(int i = 0; i<morse.length(); i++)
+        {
+            //space represents a pause between letters
+            //more than one space represents a space between words.
+        }
 
 
         return text.toString();
