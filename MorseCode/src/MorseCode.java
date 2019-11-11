@@ -15,7 +15,7 @@ public class MorseCode
     {
         MorseCode.start();  
         BTreePrinter.printNode(decodeTree);
-        System.out.println(encode("hello"));
+        System.out.println(encode("hello  my name is ethan"));
     }
 
     public static void start()
@@ -114,11 +114,22 @@ public class MorseCode
      */
     public static String encode(String text)
     {
+        text = text.toUpperCase();
         StringBuffer morse = new StringBuffer(400);
-        String n = text.ToUpperCase();
+        String letter = " ";
         for(int i = 0; i<text.length(); i++)
         {
-            morse.append(codeMap.get(text.charAt(i)));
+            letter = text.substring(i, i+1);
+            if(letter.equals(" "))
+            {
+                morse.append(" ");
+            }
+            else
+            {
+                morse.append(codeMap.get(text.charAt(i)));
+                morse.append(" ");
+            }
+
         }
 
         return morse.toString();
@@ -133,11 +144,25 @@ public class MorseCode
     public static String decode(String morse)
     {
         StringBuffer text = new StringBuffer(100);
-
+        TreeNode current = decodeTree;
         for(int i = 0; i<morse.length(); i++)
         {
-            //space represents a pause between letters
-            //more than one space represents a space between words.
+            if(morse.charAt(i) == ' ')
+            {
+                text.append(current.getValue());
+                current = decodeTree;
+            }
+            else
+            {
+                if(morse.charAt(i) == DOT)
+                {
+                    current = current.getLeft();
+                }
+                if (morse.charAt(i) == DASH)
+                {
+                    current = current.getRight();
+                }
+            }
         }
 
 
